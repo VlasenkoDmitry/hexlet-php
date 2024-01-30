@@ -6,5 +6,10 @@
             "Hex\\Example\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
 }
