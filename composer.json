@@ -4,7 +4,10 @@
     "autoload": {
         "psr-4": {
             "Hex\\Example\\": "src/"
-        }
+        },
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "require": {
         "tightenco/collect": "^9.52"
